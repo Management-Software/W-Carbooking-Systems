@@ -1,12 +1,20 @@
 # W-Carbooking-Systems
 
-**Database Name: cbsphp**
+**Database Name: carrentalp**
 
-**Recommended PHP Version 7.4**
+**Recommended PHP Version 5.6.3 and 7.4.12**
 
-**Admin Login Details**
 
-Username: admin
-Password: Password@123
+**Customer Login Details**
 
-**Driver's Reg.Code can be found under Cab Management Section**
+Username: lucas
+Password: password
+
+
+**Employee Login Details**
+
+Username: harry
+Password: password
+
+Username: jenny
+Password: jenny
